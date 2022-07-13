@@ -18,6 +18,8 @@ page.json 页面路径配置
 
 > 前端组件框架 [uview](https://www.uviewui.com/)
 
+> 对应服务端 [fish-service](https://github.com/imtmn/fish-service)
+
 # 功能简介
 目前小程序包含多商户功能，所有功能均在小程序实现，无需后台管理系统。主要服务中小餐饮商家，与美团等平台不同的是，小程序主要服务于商家的私域流量，用户进店扫码点餐、外卖扫码点餐等。不会导致客户流失和恶意竞争。
 
