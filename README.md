@@ -27,23 +27,25 @@ page.json 页面路径配置
 
 - 普通用户进入界面：
 
-![扫码](https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E7%AE%80%E4%BB%8B.jpg)
+<img src="https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E7%AE%80%E4%BB%8B.jpg" width="30%" height="30%">
+
 
 - 点餐界面：
 
-![点餐](https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E7%82%B9%E9%A4%90.jpg)
+<img src="https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E7%82%B9%E9%A4%90.jpg" width="30%" height="30%">
+
 
 - 结算：
 
-![结算](https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E7%BB%93%E7%AE%97.jpg)
+<img src="https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E7%BB%93%E7%AE%97.jpg" width="30%" height="30%">
 
 - 订单列表
 
-![订单](https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E8%AE%A2%E5%8D%95.jpg)
+<img src="https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E8%AE%A2%E5%8D%95.jpg" width="30%" height="30%">
 
 - 个人中心
 
-![个人中心](https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg)
+<img src="https://gihuhu.oss-cn-hangzhou.aliyuncs.com/%E4%BB%8B%E7%BB%8D/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg" width="30%" height="30%">
 
 # 开原许可
 
