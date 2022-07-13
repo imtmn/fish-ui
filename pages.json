@@ -1,0 +1,275 @@
+{
+	"easycom": {
+			// "^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/menu/menu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "点餐",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/pay/confirm",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "下单",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/pay/pay",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "结算",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/orders/orders",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+                "enablePullDownRefresh": true
+            }
+            
+        },
+		{
+            "path" : "pages/orders/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单详情",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/mine",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/mine/userinfo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "个人信息",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/goods/goods",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "菜品管理",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/goods/goodsType",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "品类管理",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+            "path" : "pages/goods/addGoods",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "菜品维护",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+            "path" : "pages/goods/specification",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "规格管理",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/store/store",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "店铺资料",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/stat/stat",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "数据统计",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/people/people",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "员工管理",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/print/print",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "打印设置",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/print/test",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "打印测试",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/invite/invite",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "邀请",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/desk/desk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+       
+        ,{
+            "path" : "pages/feedback/feedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/remark/remark",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/desk/qrcode",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/menu/empty",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/guide/guide",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/apply/apply",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#919293",
+		"selectedColor": "#f55f4c",
+		"backgroundColor": "#fff",
+		"borderStyle": "black",
+		"list": [{
+			"pagePath": "pages/menu/menu",
+			"text": "点餐",
+			"iconPath": "static/images/tabBar/menu.png",
+			"selectedIconPath": "static/images/tabBar/menu_selected.png"
+		}, {
+			"pagePath": "pages/orders/orders",
+			"text": "订单",
+			"iconPath": "static/images/tabBar/order.png",
+			"selectedIconPath": "static/images/tabBar/order_selected.png"
+		},  {
+			"pagePath": "pages/mine/mine",
+			"text": "我的",
+			"iconPath": "static/images/tabBar/mine.png",
+			"selectedIconPath": "static/images/tabBar/mine_selected.png"
+		}]
+	}
+}
